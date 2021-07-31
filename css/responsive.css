@@ -1,0 +1,297 @@
+@media (max-width: 575.98px) {
+  .header nav {
+    flex-direction: column;
+  }
+  .header .header_content {
+    padding: 19px;
+  }
+  .background .row h1 {
+    font-size: 29px;
+  }
+  .background .row p {
+    font-size: 14px;
+  }
+
+  .section2 {
+    padding: 22px 0;
+    margin: 0 0 0 0;
+  }
+  .section2 .row h1 {
+    font-size: 30px;
+    text-align: center;
+  }
+  .section2 .row h6 {
+    font-size: 15px;
+    text-align: center;
+  }
+  .section2 .row p {
+    font-size: 15px;
+  }
+  .section2 .dev {
+    padding: 25px;
+  }
+
+  .section3 {
+    margin: 0;
+    border-radius: 0;
+    text-align: center;
+  }
+  .section3 .col h1 {
+    font-size: 30px;
+  }
+  .section3 .pic {
+    text-align: center;
+  }
+  .section3 .pic h4 {
+    font-size: 22px;
+  }
+  .section3 .pic p {
+    font-size: 14px;
+  }
+  .section3 .pic p {
+    max-width: 100%;
+  }
+  .section4 .row h2 {
+    font-size: 30px;
+  }
+  .section4 .row h2::after {
+    height: 151px;
+    left: 159px;
+    top: 22px;
+    transform: rotate(90deg);
+  }
+  .section4 .logos {
+    padding: 0px 0px 37px 73px;
+    max-width: 62%;
+  }
+  .section4 .logos img {
+    padding: 0px 37px 17px 0px;
+  }
+
+  .section5 .col h1 {
+    font-size: 37px;
+    padding: 45px 0;
+  }
+  .section5 .iframe {
+    text-align: center;
+  }
+
+  .section6 .app {
+    text-align: center;
+    padding: 34px 0;
+  }
+  .section6 .app h2 {
+    font-size: 30px;
+  }
+  .section6 .app h3 {
+    font-size: 26px;
+  }
+  .section6 .dropdown {
+    text-align: center;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .section6 .dropdown .form-control {
+    width: 100%;
+    margin: 0;
+  }
+  .section6 .dropdown .butn1,
+  .section6 .dropdown a {
+    width: 100%;
+  }
+  .section8 {
+    text-align: center;
+  }
+  .section8 .inpt {
+    width: 100%;
+    margin-bottom: 26px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .header nav {
+    flex-direction: column;
+  }
+  .header .header_content {
+    padding: 19px;
+  }
+  .background .row h1 {
+    font-size: 29px;
+  }
+  .background .row p {
+    font-size: 14px;
+  }
+
+  .section2 {
+    padding: 22px 0;
+    margin: 0 0 0 0;
+  }
+  .section2 .row h1 {
+    font-size: 30px;
+    text-align: center;
+  }
+  .section2 .row h6 {
+    font-size: 15px;
+    text-align: center;
+  }
+  .section2 .row p {
+    font-size: 15px;
+  }
+  .section2 .dev {
+    padding: 25px;
+  }
+
+  .section3 {
+    margin: 0;
+    border-radius: 0;
+    text-align: center;
+  }
+  .section3 .col h1 {
+    font-size: 30px;
+  }
+  .section3 .pic {
+    text-align: center;
+  }
+  .section3 .pic h4 {
+    font-size: 22px;
+  }
+  .section3 .pic p {
+    font-size: 14px;
+  }
+  .section3 .pic p {
+    max-width: 100%;
+  }
+  .section4 .row h2 {
+    font-size: 30px;
+  }
+  .section4 .row h2::after {
+    height: 151px;
+    left: 159px;
+    top: 22px;
+    transform: rotate(90deg);
+  }
+  .section4 .logos {
+    padding: 0px 0px 37px 73px;
+    max-width: 45%;
+  }
+  .section4 .logos img {
+    padding: 0px 37px 17px 0px;
+  }
+
+  .section5 .col h1 {
+    font-size: 37px;
+    padding: 45px 0;
+  }
+  .section5 .iframe {
+    text-align: center;
+  }
+
+  .section6 .app {
+    text-align: center;
+    padding: 34px 0;
+  }
+  .section6 .app h2 {
+    font-size: 30px;
+  }
+  .section6 .app h3 {
+    font-size: 26px;
+  }
+  .section6 .dropdown {
+    text-align: center;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .section6 .dropdown .form-control {
+    width: 100%;
+    margin: 0;
+  }
+  .section6 .dropdown .butn1,
+  .section6 .dropdown a {
+    width: 100%;
+  }
+
+  .section8 {
+    text-align: center;
+  }
+  .section8 .inpt {
+    width: 100%;
+    margin-bottom: 26px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .section2 {
+    padding: 22px 0;
+    margin: 0 0 0 0;
+  }
+  .section2 .row h1 {
+    font-size: 36px;
+  }
+  .section2 .row h6 {
+    font-size: 17px;
+  }
+  .section2 .row p {
+    font-size: 15px;
+  }
+  .section2 .dev {
+    padding: 25px;
+  }
+
+  .section3 {
+    margin: 0px 0 0 0;
+    padding: 0px 0;
+  }
+
+  .section4 .row h2 {
+    font-size: 22px;
+    padding: 50px 0 49px 33px;
+  }
+  .section4 .row h2::after {
+    width: 3px;
+    height: 55px;
+    left: 171px;
+    bottom: 37px;
+  }
+  .section4 .logos {
+    padding: 0 0 0 11px;
+    position: absolute;
+    left: 181px;
+    bottom: 56px;
+  }
+  .section4 .logos img {
+    width: 110px;
+  }
+
+  .section5 .iframe {
+    text-align: center;
+  }
+
+  .section6 .app h2 {
+    text-align: center;
+    font-size: 40px;
+  }
+  .section6 .app h3 {
+    text-align: center;
+    font-size: 35px;
+  }
+  .section6 .app p {
+    text-align: center;
+  }
+
+  .section8 #img {
+    text-align: center;
+  }
+  .section8 .row h6 {
+    text-align: center;
+    font-size: 18px;
+  }
+  .section8 .link p {
+    text-align: center;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+}
+
+@media (min-width: 1200px) {
+}
